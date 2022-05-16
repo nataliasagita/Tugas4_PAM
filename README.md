@@ -6,7 +6,7 @@ Aplikasi ini dibuat dengan react native
   <img widht="300px" height="500px" src="gambar_aplikasi/menukontak.jpg"/>
   <img widht="300px" height="500px" src="gambar_aplikasi/infokontak.jpg"/>
   <img widht="300px" height="500px" src="gambar_aplikasi/tambahkontak.jpg"/>
-  <img widht="300px" height="500px" src="gambar_aplikasi/menukontak.jpg"/>
+  <img widht="300px" height="500px" src="gambar_aplikasi/simpankontak.jpg"/>
   <img widht="300px" height="500px" src="gambar_aplikasi/menukontak.jpg"/>
 </div>
 
